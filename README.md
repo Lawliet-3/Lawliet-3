@@ -1,10 +1,13 @@
 # Hi, I'm Kaung Khant Kyaw. 👋
 
-Welcome to my GitHub profile! I'm a passionate Machine Learning Practioner with a focus on AI and Data Science.
+Welcome to my corner of GitHub! 🚀 I'm a passionate **Machine Learning Specialist** and **Software Developer** with a knack for building innovative solutions. With a strong foundation in **Computer Science** and hands-on experience in creating impactful projects, I thrive on solving complex problems and learning new technologies.  
 
-## 🔥 Highlights
-- 🎓 Computer Science graduate specializing in Machine Learning.
-- 🌱 Currently building [Mini Bookmark](https://github.com/Lawliet-3/mini-bookmark) and [Bryle Bot](https://github.com/Lawliet-3/bryle).
+- 🌟 **Specialties:** Machine Learning, Data Science, and Full-Stack Development.  
+- 🌱 **Currently Exploring:** Advanced NLP techniques and cloud-native applications.  
+- 🤝 **Let's Collaborate:** Always open to exciting projects and new opportunities.  
+
+---
+
 
 ## 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
