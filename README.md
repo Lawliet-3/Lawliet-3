@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Machine Learning Practioner with 
 - 🌱 Currently building [Mini Bookmark](https://github.com/Lawliet-3/mini-bookmark) and [Bryle Bot](https://github.com/Lawliet-3/bryle).
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uLawliet-3&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lawliet-3&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawliet-3&layout=compact&theme=radical)
 
 ## 🚀 Featured Projects
