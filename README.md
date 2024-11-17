@@ -2,7 +2,7 @@
 
 Welcome to my corner of GitHub! 🚀 I'm a passionate **Machine Learning Specialist** and **Software Developer** with a knack for building innovative solutions. With a strong foundation in **Computer Science** and hands-on experience in creating impactful projects, I thrive on solving complex problems and learning new technologies.  
 
-- 🌟 **Specialties:** Machine Learning, Data Science, and Full-Stack Development.  
+- 🌟 **Specialties:** Machine Learning, Data Science, and Backend Development(Python Stack).  
 - 🌱 **Currently Exploring:** Advanced NLP techniques and cloud-native applications.  
 - 🤝 **Let's Collaborate:** Always open to exciting projects and new opportunities.  
 
