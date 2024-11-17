@@ -16,10 +16,6 @@ Welcome to my GitHub profile! I'm a passionate Machine Learning Practioner with 
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lawliet-3&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawliet-3&layout=compact&theme=radical)
-
 ## 🚀 Featured Projects
 - [Mini Bookmark](https://github.com/Lawliet-3/mini-bookmark): A bookmark app to fetch and save parsed content from URLs.
 - [Bryle Bot](https://github.com/Lawliet-3/bryle): A chatbot integrating RAG for dynamic responses.
